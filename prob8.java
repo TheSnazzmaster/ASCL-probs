@@ -15,4 +15,3 @@ public class prob8{
         System.out.println("TEST");
     }
 }
->>>>>>> origin
